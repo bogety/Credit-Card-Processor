@@ -26,7 +26,7 @@ class Database(object):
         return rows
 #Search Customer Information by Full name, amount,status APPROVED or DECLINED ,transaction ID
     def search(self, full_name="", trans_type="", amount="", status="", trans_id=""):
-        self.cur.execute("SELECT * FROM transaction_information WHERE full_name=? OR trans_type=? OR amount=? OR status=? OR trans_id=?", (full_name, amount, status, trans_id))
+        self.cur.execute("SELECT * FROM transaction_information WHERE full_name=? OR trans_type=? OR amount=? OR status=? OR trans_id=?", (full_name, trans_type, amount, status, trans_id))
         rows = self.cur.fetchall()
         return rows
 #Delete Transaction information
