@@ -4,7 +4,7 @@ Simple Credit Card Processing application built using Python v3.6.2:5fd33b5926 ,
 
 ## Getting Started
 
-Download all files into a folder and run it. All the files necessary to be up and running are included in this repository. 
+Download the files into a folder and run it. All the files necessary to be up and running are included in this repository. 
 
 
 ### Prerequisites
@@ -20,7 +20,7 @@ Python 3.6.2 interpretor | tkinter — Python interface | sqlite3 — DB-API 2.0
 ## Running the tests
 
 
-Explain what these tests test and why
+Below information will help the user to test our application.
 
 ```
 Odd dollar amounts (e.g. $1.00, $9.00, $25.00) return an APPROVED message
