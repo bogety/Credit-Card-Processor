@@ -1,5 +1,5 @@
 # Credit-Card-Processor
-Simple Credit Card Processing application built using Python v3.6.2:5fd33b5926 , tkinter and SQL lite using BluePay Gateway API.
+Simple Credit Card Processing application built with Python v3.6.2:5fd33b5926 , tkinter and SQL lite using BluePay Gateway API.
 
 
 ## Getting Started
