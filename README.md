@@ -51,5 +51,5 @@ Expiration dates in the past are returned as invalid
 
 ## Acknowledgments
 
-* This is a class project and will not maintained regularly.
-* Inspirations and references are credited appropriately within the source code.
+* This is a class project and will not be maintained regularly.
+* All references and appropriate inspirations are credited wherever required within the source code.
