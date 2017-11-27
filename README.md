@@ -52,4 +52,4 @@ Expiration dates in the past are returned as invalid
 ## Acknowledgments
 
 * This is a class project and is not maintained regularly.
-* Inspirations and reference are credited appropriately.
+* Inspirations and references are credited appropriately within the source code.
